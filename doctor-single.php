@@ -5,7 +5,7 @@
   <meta name="description" content="Orbitor,business,company,agency,modern,bootstrap4,tech,software">
   <meta name="author" content="themefisher.com">
 
-  <title>Novena- Health & Care Medical template</title>
+  <title>Medplus- Health & Care Medical template</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />
@@ -31,15 +31,15 @@
 			<div class="row align-items-center">
 				<div class="col-lg-6">
 					<ul class="top-bar-info list-inline-item pl-0 mb-0">
-						<li class="list-inline-item"><a href="mailto:support@gmail.com"><i class="icofont-support-faq mr-2"></i>support@novena.com</a></li>
-						<li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Address Ta-134/A, New York, USA </li>
+						<li class="list-inline-item"><a href="mailto:kanyaraasi@medplus.com"><i class="icofont-support-faq mr-2"></i>kanyaraasi@medplus.com</a></li>
+						<li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Address Visakhapatnam, AP, India </li>
 					</ul>
 				</div>
 				<div class="col-lg-6">
 					<div class="text-lg-right top-right-bar mt-2 mt-lg-0">
-						<a href="tel:+23-345-67890" >
+						<a href="tel:+91 6281888340" >
 							<span>Call Now : </span>
-							<span class="h4">823-4565-13456</span>
+							<span class="h4">+91 6281888340</span>
 						</a>
 					</div>
 				</div>
@@ -48,7 +48,7 @@
 	</div>
 	<nav class="navbar navbar-expand-lg navigation" id="navbar">
 		<div class="container">
-		 	 <a class="navbar-brand" href="index.php">
+		 	 <a class="navbar-brand" href="index.html">
 			  	<img src="images/logo.png" alt="" class="img-fluid">
 			  </a>
 
@@ -59,37 +59,37 @@
 		  <div class="collapse navbar-collapse" id="navbarmain">
 			<ul class="navbar-nav ml-auto">
 			  <li class="nav-item active">
-				<a class="nav-link" href="index.php">Home</a>
+				<a class="nav-link" href="index.html">Home</a>
 			  </li>
-			   <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
-			    <li class="nav-item"><a class="nav-link" href="service.php">Services</a></li>
+			   <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+			    <li class="nav-item"><a class="nav-link" href="service.html">Services</a></li>
 
 			    <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="department.php" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Department <i class="icofont-thin-down"></i></a>
+					<a class="nav-link dropdown-toggle" href="department.html" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Department <i class="icofont-thin-down"></i></a>
 					<ul class="dropdown-menu" aria-labelledby="dropdown02">
-						<li><a class="dropdown-item" href="department.php">Departments</a></li>
-						<li><a class="dropdown-item" href="department-single.php">Department Single</a></li>
+						<li><a class="dropdown-item" href="department.html">Departments</a></li>
+						<li><a class="dropdown-item" href="department-single.html">Department Single</a></li>
 					</ul>
 			  	</li>
 
 			  	<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="doctor.php" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Doctors <i class="icofont-thin-down"></i></a>
+					<a class="nav-link dropdown-toggle" href="doctor.html" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Doctors <i class="icofont-thin-down"></i></a>
 					<ul class="dropdown-menu" aria-labelledby="dropdown03">
-						<li><a class="dropdown-item" href="doctor.php">Doctors</a></li>
-						<li><a class="dropdown-item" href="doctor-single.php">Doctor Single</a></li>
-						<li><a class="dropdown-item" href="appoinment.php">Appoinment</a></li>
+						<li><a class="dropdown-item" href="doctor.html">Doctors</a></li>
+						<li><a class="dropdown-item" href="doctor-single.html">Doctor Single</a></li>
+						<li><a class="dropdown-item" href="appoinment.html">Appoinment</a></li>
 					</ul>
 			  	</li>
 
 			   <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="blog-sidebar.php" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blog <i class="icofont-thin-down"></i></a>
+					<a class="nav-link dropdown-toggle" href="blog-sidebar.html" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blog <i class="icofont-thin-down"></i></a>
 					<ul class="dropdown-menu" aria-labelledby="dropdown05">
-						<li><a class="dropdown-item" href="blog-sidebar.php">Blog with Sidebar</a></li>
+						<li><a class="dropdown-item" href="blog-sidebar.html">Blog with Sidebar</a></li>
 
-						<li><a class="dropdown-item" href="blog-single.php">Blog Single</a></li>
+						<li><a class="dropdown-item" href="blog-single.html">Blog Single</a></li>
 					</ul>
 			  	</li>
-			   <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+			   <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
 			</ul>
 		  </div>
 		</div>
@@ -105,7 +105,7 @@
       <div class="col-md-12">
         <div class="block text-center">
           <span class="text-white">Doctor Details</span>
-          <h1 class="text-capitalize mb-5 text-lg">Alexandar james</h1>
+          <h1 class="text-capitalize mb-5 text-lg">Dr.Malla Reddy</h1>
 
           <!-- <ul class="list-inline breadcumb-nav">
             <li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>
@@ -127,7 +127,7 @@
 					<img src="images/team/1.jpg" alt="" class="img-fluid w-100">
 
 					<div class="info-block mt-4">
-						<h4 class="mb-0">Alexandar james</h4>
+						<h4 class="mb-0">Dr.Malla Reddy</h4>
 						<p>Orthopedic Surgary</p>
 
 						<ul class="list-inline mt-4 doctor-social-links">
@@ -145,10 +145,10 @@
 				<div class="doctor-details mt-4 mt-lg-0">
 					<h2 class="text-md">Introducing to myself</h2>
 					<div class="divider my-4"></div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam tempore cumque voluptate beatae quis inventore sapiente nemo, a eligendi nostrum expedita veritatis neque incidunt ipsa doloribus provident ex, at ullam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, perferendis officiis esse quae, nobis eius explicabo quidem? Officia accusamus repudiandae ea esse non reiciendis accusantium voluptates, facilis enim, corrupti eligendi?</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo recusandae veritatis minus optio quod obcaecati laborum temporibus, deleniti vero perferendis molestias, ducimus facilis, sunt minima. Tempora, amet quasi asperiores voluptas?</p>
+					<p>It is very important for the customer to pay attention to the adipiscing process. No matter how happy a time someone is in blissful pleasure, there is no one who is wise in finding out, from choosing us the expedients of truth, they do not fall into the pains themselves, but they provide for any. It is very important for the customer to pay attention to the adipiscing process. I will indeed explain to us that she is carrying out duties? Do we accuse the offices of repudiating them by not rejecting the pleasures of the accusers, for it is easy to choose the corrupt?</p>
+					<p>It is very important for the customer to pay attention to the adipiscing process. No one has the less option of rejecting the truth, because those who are blinded by the times of trouble, but softened by enduring the troubles, we lead easily, are the least. Are the times going to be like rougher pleasure?</p>
 
-					<a href="appoinment.php" class="btn btn-main-2 btn-round-full mt-3">Make an Appoinment<i class="icofont-simple-right ml-2  "></i></a>
+					<a href="appoinment.html" class="btn btn-main-2 btn-round-full mt-3">Make an Appoinment<i class="icofont-simple-right ml-2  "></i></a>
 				</div>
 			</div>
 		</div>
@@ -171,13 +171,13 @@
 				<div class="edu-block mb-5">
 					<span class="h6 text-muted">Year(2005-2007) </span>
 					<h4 class="mb-3 title-color">MBBS, M.D at University of Wyoming</h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi doloremque harum, mollitia, soluta maxime porro veritatis fuga autem impedit corrupti aperiam sint, architecto, error nesciunt temporibus! Vel quod, dolor aliquam!</p>
+					<p>It is very important for the customer to pay attention to the adipiscing process. Unless the pain of these, the resilience, is resolved, the flight of the truth prevents the corrupt from opening, the architect, the error of the times they do not know! Or what, some grief!</p>
 				</div>
 
 				<div class="edu-block">
 					<span class="h6 text-muted">Year(2007-2009) </span>
 					<h4 class="mb-3 title-color">M.D. of Netherland Medical College</h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi doloremque harum, mollitia, soluta maxime porro veritatis fuga autem impedit corrupti aperiam sint, architecto, error nesciunt temporibus! Vel quod, dolor aliquam!</p>
+					<p>It is very important for the customer to pay attention to the adipiscing process. Unless the pain of these, the resilience, is resolved, the flight of the truth prevents the corrupt from opening, the architect, the error of the times they do not know! Or what, some grief!</p>
 				</div>
 			</div>
 
@@ -185,13 +185,13 @@
 				<div class="edu-block mb-5">
 					<span class="h6 text-muted">Year(2009-2010) </span>
 					<h4 class="mb-3 title-color">MBBS, M.D at University of Japan</h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi doloremque harum, mollitia, soluta maxime porro veritatis fuga autem impedit corrupti aperiam sint, architecto, error nesciunt temporibus! Vel quod, dolor aliquam!</p>
+					<p>It is very important for the customer to pay attention to the adipiscing process. Unless the pain of these, the resilience, is resolved, the flight of the truth prevents the corrupt from opening, the architect, the error of the times they do not know! Or what, some grief!</p>
 				</div>
 
 				<div class="edu-block">
 					<span class="h6 text-muted">Year(2010-2011) </span>
 					<h4 class="mb-3 title-color">M.D. of Canada Medical College</h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi doloremque harum, mollitia, soluta maxime porro veritatis fuga autem impedit corrupti aperiam sint, architecto, error nesciunt temporibus! Vel quod, dolor aliquam!</p>
+					<p>It is very important for the customer to pay attention to the adipiscing process. Unless the pain of these, the resilience, is resolved, the flight of the truth prevents the corrupt from opening, the architect, the error of the times they do not know! Or what, some grief!</p>
 				</div>
 			</div>
 		</div>
@@ -205,7 +205,7 @@
 			<div class="col-lg-4">
 				<h3>My skills</h3>
 				<div class="divider my-4"></div>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In architecto voluptatem alias, aspernatur voluptatibus corporis quisquam? Consequuntur, ad, doloribus, doloremque voluptatem at consectetur natus eum ipsam dolorum iste laudantium tenetur.</p>
+				<p>It is very important for the customer to pay attention to the adipiscing process. In the architect of other pleasures, is anyone displeased with the pleasures of the body? They follow, ad, pains, and pain and pleasure, but the one who is born is bound by the very pains that praise him.</p>
 			</div>
 			<div class="col-lg-4">
 				<div class="skill-list">
@@ -241,7 +241,7 @@
 
 					<div class="sidebar-contatct-info mt-4">
 						<p class="mb-0">Need Urgent Help?</p>
-						<h3 class="text-color-2">+23-4565-65768</h3>
+						<h3 class="text-color-2">+91 6281888340</h3>
 					</div>
 				</div>
 			</div>
@@ -259,7 +259,7 @@
 					<div class="logo mb-4">
 						<img src="images/logo.png" alt="" class="img-fluid">
 					</div>
-					<p>Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus.</p>
+					<p>Times are the pain of pleasures, for if we take pleasure in pleasure, it is easy for us to be blinded to them, and the distinction of the truth will come about.</p>
 
 					<ul class="list-inline footer-socials mt-4">
 						<li class="list-inline-item"><a href="https://www.facebook.com/themefisher"><i class="icofont-facebook"></i></a></li>
@@ -276,7 +276,7 @@
 
 					<ul class="list-unstyled footer-menu lh-35">
 						<li><a href="#">Surgery </a></li>
-						<li><a href="#">Wome's Health</a></li>
+						<li><a href="#">Women's Health</a></li>
 						<li><a href="#">Radiology</a></li>
 						<li><a href="#">Cardioc</a></li>
 						<li><a href="#">Medicine</a></li>
@@ -309,7 +309,7 @@
 							<i class="icofont-email mr-3"></i>
 							<span class="h6 mb-0">Support Available for 24/7</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+23-345-67890">Support@email.com</a></h4>
+						<h4 class="mt-2"><a href="tel:+91 6281888340">kanyaraasi@medplus.com</a></h4>
 					</div>
 
 					<div class="footer-contact-block">
@@ -317,7 +317,7 @@
 							<i class="icofont-support mr-3"></i>
 							<span class="h6 mb-0">Mon to Fri : 08:30 - 18:00</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+23-345-67890">+23-456-6588</a></h4>
+						<h4 class="mt-2"><a href="tel:+91 6281888340">+91 6281888340</a></h4>
 					</div>
 				</div>
 			</div>
@@ -326,9 +326,7 @@
 		<div class="footer-btm py-4 mt-5">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6">
-					<div class="copyright">
-						&copy; Copyright Reserved to <span class="text-color">Novena</span> by <a href="https://themefisher.com/" target="_blank">Themefisher</a>
-					</div>
+					
 				</div>
 				<div class="col-lg-6">
 					<div class="subscribe-form text-lg-right mt-5 mt-lg-0">
