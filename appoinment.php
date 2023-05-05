@@ -59,9 +59,9 @@ if(isset($_POST['submit'])){
 				</div>
 				<div class="col-lg-6">
 					<div class="text-lg-right top-right-bar mt-2 mt-lg-0">
-						<a href="tel:+23-345-67890" >
+						<a href="tel:+91 6281888340" >
 							<span>Call Now : </span>
-							<span class="h4">6281888340</span>
+							<span class="h4">+91 6281888340</span>
 						</a>
 					</div>
 				</div>
@@ -156,7 +156,7 @@ if(isset($_POST['submit'])){
       <div class="col-lg-8">
            <div class="appoinment-wrap mt-5 mt-lg-0 pl-lg-5">
             <h2 class="mb-2 title-color">Book an appoinment</h2>
-            <p class="mb-4">Mollitia dicta commodi est recusandae iste, natus eum asperiores corrupti qui velit . Iste dolorum atque similique praesentium soluta.</p>
+            <p class="mb-4">It is convenient for him to refuse the so-called flexibility, since he was born more harshly than the corrupt who will. He is relieved of pains and the like of the present.</p>
                <form action="<?php echo $_SERVER['PHP_SELF'];?>" method="post">
 			   <?php
 			      if(isset($message)) {
@@ -187,7 +187,7 @@ if(isset($_POST['submit'])){
                                   <option>Dr.Samaram</option>
                                   <option>Dr.Sahayam </option>
                                   <option>Dr.Daiva Darsanam</option>
-                                  <option>Dr.Hema Sai</option>
+                                  <option>Dr.Hemasai</option>
                                   <option>Dr.Nikhilesh</option>
                                   <option>Dr.Anjali</option>
                                   <option>Dr.Nagendra </option>
@@ -242,7 +242,7 @@ if(isset($_POST['submit'])){
 					<div class="logo mb-4">
 						<img src="images/logo.png" alt="" class="img-fluid">
 					</div>
-					<p>Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus.</p>
+					<p>Times are the pain of pleasures, for if we take pleasure in pleasure, it is easy for us to be blinded to them, and the distinction of the truth will come about.</p>
 
 					<ul class="list-inline footer-socials mt-4">
 						<li class="list-inline-item"><a href="https://www.facebook.com/"><i class="icofont-facebook"></i></a></li>
@@ -300,7 +300,7 @@ if(isset($_POST['submit'])){
 							<i class="icofont-support mr-3"></i>
 							<span class="h6 mb-0">Mon to Fri : 08:30 - 18:00</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+23-345-67890">+91 6281888340</a></h4>
+						<h4 class="mt-2"><a href="tel:+91 6281888340">+91 6281888340</a></h4>
 					</div>
 				</div>
 			</div>

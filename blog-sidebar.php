@@ -5,7 +5,7 @@
   <meta name="description" content="Orbitor,business,company,agency,modern,bootstrap4,tech,software">
   <meta name="author" content="themefisher.com">
 
-  <title>Novena- Health & Care Medical template</title>
+  <title>Medplus- Health & Care Medical template</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />
@@ -31,15 +31,15 @@
 			<div class="row align-items-center">
 				<div class="col-lg-6">
 					<ul class="top-bar-info list-inline-item pl-0 mb-0">
-						<li class="list-inline-item"><a href="mailto:support@gmail.com"><i class="icofont-support-faq mr-2"></i>support@novena.com</a></li>
-						<li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Address Ta-134/A, New York, USA </li>
+						<li class="list-inline-item"><a href="mailto:kanyaraasi@medplus.com"><i class="icofont-support-faq mr-2"></i>kanyaraasi@medplus.com</a></li>
+						<li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Address Visakhapatanam, AP, IN </li>
 					</ul>
 				</div>
 				<div class="col-lg-6">
 					<div class="text-lg-right top-right-bar mt-2 mt-lg-0">
-						<a href="tel:+23-345-67890" >
+						<a href="tel:+91 6281888340" >
 							<span>Call Now : </span>
-							<span class="h4">823-4565-13456</span>
+							<span class="h4">+91 6281888340</span>
 						</a>
 					</div>
 				</div>
@@ -137,7 +137,7 @@
 
 				<h2 class="mt-3 mb-3"><a href="blog-single.php">Choose quality service over cheap service  all type of things</a></h2>
 
-				<p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis aliquid architecto facere commodi cupiditate omnis voluptatibus inventore atque velit cum rem id assumenda quam recusandae ipsam ea porro, dicta ad.</p>
+				<p class="mb-4">It is very important for the customer to pay attention to the adipiscing process. By flattery, to do something to the architect, by the desire of convenience, to find all pleasures, and when he wants to accept the thing rather than to refuse it itself, said to.</p>
 
 				<a href="blog-single.html" target="_blank" class="btn btn-main btn-icon btn-round-full">Read More <i class="icofont-simple-right ml-2  "></i></a>
 			</div>
@@ -158,7 +158,7 @@
 
 				<h2 class="mt-3 mb-3"><a href="blog-single.php">All test cost 25% in always in our laboratory</a></h2>
 				
-				<p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis aliquid architecto facere commodi cupiditate omnis voluptatibus inventore atque velit cum rem id assumenda quam recusandae ipsam ea porro, dicta ad.</p>
+				<p class="mb-4">It is very important for the customer to pay attention to the adipiscing process. By flattery, to do something to the architect, by the desire of convenience, to find all pleasures, and when he wants to accept the thing rather than to refuse it itself, said to.</p>
 
 				<a href="blog-single.html" target="_blank" class="btn btn-main btn-icon btn-round-full">Read More <i class="icofont-simple-right ml-2  "></i></a>
 			</div>
@@ -179,7 +179,7 @@
 				</div> 
 				<h2 class="mt-3 mb-3"><a href="blog-single.php">Get Free consulation from our special surgeon and doctors</a></h2>
 
-				<p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis aliquid architecto facere commodi cupiditate omnis voluptatibus inventore atque velit cum rem id assumenda quam recusandae ipsam ea porro, dicta ad.</p>
+				<p class="mb-4">It is very important for the customer to pay attention to the adipiscing process. By flattery, to do something to the architect, by the desire of convenience, to find all pleasures, and when he wants to accept the thing rather than to refuse it itself, said to.</p>
 
 				<a href="blog-single.html" target="_blank" class="btn btn-main btn-icon btn-round-full">Read More <i class="icofont-simple-right ml-2  "></i></a>
 			</div>
@@ -280,7 +280,7 @@
 
 		<div class="sidebar-contatct-info mt-4">
 			<p class="mb-0">Need Urgent Help?</p>
-			<h3>+23-4565-65768</h3>
+			<h3>6281888340</h3>
 		</div>
 	</div>
 
@@ -312,7 +312,7 @@
 					<div class="logo mb-4">
 						<img src="images/logo.png" alt="" class="img-fluid">
 					</div>
-					<p>Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus.</p>
+					<p>The times are the pain of pleasures, for if we take them with pleasure, it is easy for us to be blinded to them, and we will be able to discern the truth..</p>
 
 					<ul class="list-inline footer-socials mt-4">
 						<li class="list-inline-item"><a href="https://www.facebook.com/themefisher"><i class="icofont-facebook"></i></a></li>
@@ -362,7 +362,7 @@
 							<i class="icofont-email mr-3"></i>
 							<span class="h6 mb-0">Support Available for 24/7</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+23-345-67890">Support@email.com</a></h4>
+						<h4 class="mt-2"><a href="tel:+91 6281888340">kanyaraasi@medplus.com</a></h4>
 					</div>
 
 					<div class="footer-contact-block">
@@ -370,7 +370,7 @@
 							<i class="icofont-support mr-3"></i>
 							<span class="h6 mb-0">Mon to Fri : 08:30 - 18:00</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+23-345-67890">+23-456-6588</a></h4>
+						<h4 class="mt-2"><a href="tel:+91 6281888340">+91 6281888340</a></h4>
 					</div>
 				</div>
 			</div>
@@ -378,11 +378,6 @@
 		
 		<div class="footer-btm py-4 mt-5">
 			<div class="row align-items-center justify-content-between">
-				<div class="col-lg-6">
-					<div class="copyright">
-						&copy; Copyright Reserved to <span class="text-color">Novena</span> by <a href="https://themefisher.com/" target="_blank">Themefisher</a>
-					</div>
-				</div>
 				<div class="col-lg-6">
 					<div class="subscribe-form text-lg-right mt-5 mt-lg-0">
 						<form action="#" class="subscribe">
