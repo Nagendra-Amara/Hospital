@@ -21,7 +21,7 @@ COMMIT;
 INSERT INTO cardiology (id,name,phone,date,doctor)
 SELECT id,name,phone,date,doctor
 FROM appointmentform
-WHERE department=Cardiology;
+WHERE department="Cardiology";
 
 INSERT INTO radiology (id,name,phone,date,doctor)
 SELECT id,name,phone,date,doctor
