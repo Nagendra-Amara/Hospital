@@ -5,11 +5,10 @@
   <meta name="description" content="Orbitor,business,company,agency,modern,bootstrap4,tech,software">
   <meta name="author" content="themefisher.com">
 
-  <title>Novena- Health & Care Medical template</title>
+  <title>Medplus- Health & Care Medical template</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />
-
   <!-- bootstrap.min css -->
   <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
   <!-- Icon Font Css -->
@@ -37,9 +36,9 @@
 				</div>
 				<div class="col-lg-6">
 					<div class="text-lg-right top-right-bar mt-2 mt-lg-0">
-						<a href="tel:+23-345-67890" >
+						<a href="tel:+91 6281888340" >
 							<span>Call Now : </span>
-							<span class="h4">6281888340</span>
+							<span class="h4">+91 6281888340</span>
 						</a>
 					</div>
 				</div>
@@ -130,7 +129,7 @@
 				<h2 class="title-color">Personal care for your healthy living</h2>
 			</div>
 			<div class="col-lg-8">
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quod laborum alias. Vitae dolorum, officia sit! Saepe ullam facere at, consequatur incidunt, quae esse, quis ut reprehenderit dignissimos, libero delectus.</p>
+				<p>It is very important for the customer to pay attention to the adipiscing process. Incidents, that of other things. Life of suffering, let it be services! Often, however, to do anything, the consequences occur, which are, whoever criticizes the most worthy, chosen by the free.</p>
 				<img src="images/about/sign.png" alt="" class="img-fluid">
 			</div>
 		</div>
@@ -144,28 +143,28 @@
 				<div class="about-block-item mb-5 mb-lg-0">
 					<img src="images/about/about-1.jpg" alt="" class="img-fluid w-100">
 					<h4 class="mt-3">Healthcare for Kids</h4>
-					<p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+					<p>We can be most repulsed by the pleasure of being open, nothing to the accusers .</p>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6">
 				<div class="about-block-item mb-5 mb-lg-0">
 					<img src="images/about/about-2.jpg" alt="" class="img-fluid w-100">
 					<h4 class="mt-3">Medical Counseling</h4>
-					<p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+					<p>We can be most repulsed by the pleasure of being open, nothing to the accusers .</p>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6">
 				<div class="about-block-item mb-5 mb-lg-0">
 					<img src="images/about/about-3.jpg" alt="" class="img-fluid w-100">
 					<h4 class="mt-3">Modern Equipments</h4>
-					<p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+					<p>We can be most repulsed by the pleasure of being open, nothing to the accusers .</p>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-6">
 				<div class="about-block-item">
 					<img src="images/about/about-4.jpg" alt="" class="img-fluid w-100">
 					<h4 class="mt-3">Qualified Doctors</h4>
-					<p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+					<p>We can be most repulsed by the pleasure of being open, nothing to the accusers .</p>
 				</div>
 			</div>
 		</div>
@@ -234,7 +233,7 @@
 					<img src="images/team/1.jpg" alt="" class="img-fluid w-100">
 
 					<div class="content">
-						<h4 class="mt-4 mb-0"><a href="doctor-single.html">John Marshal</a></h4>
+						<h4 class="mt-4 mb-0"><a href="doctor-single.html">Dr.Lalith Kiran</a></h4>
 						<p>Internist, Emergency Physician</p>
 					</div>
 				</div>
@@ -245,7 +244,7 @@
 					<img src="images/team/2.jpg" alt="" class="img-fluid w-100">
 
 					<div class="content">
-						<h4 class="mt-4 mb-0"><a href="doctor-single.html">Marshal Root</a></h4>
+						<h4 class="mt-4 mb-0"><a href="doctor-single.html">Dr.Rohit</a></h4>
 						<p>Surgeon, Сardiologist</p>
 					</div>
 				</div>
@@ -256,7 +255,7 @@
 					<img src="images/team/3.jpg" alt="" class="img-fluid w-100">
 
 					<div class="content">
-						<h4 class="mt-4 mb-0"><a href="doctor-single.html">Siamon john</a></h4>
+						<h4 class="mt-4 mb-0"><a href="doctor-single.html">Dr.Narendra</a></h4>
 						<p>Internist, General Practitioner</p>
 					</div>
 				</div>
@@ -266,7 +265,7 @@
 					<img src="images/team/4.jpg" alt="" class="img-fluid w-100">
 
 					<div class="content">
-						<h4 class="mt-4 mb-0"><a href="doctor-single.html">Rishat Ahmed</a></h4>
+						<h4 class="mt-4 mb-0"><a href="doctor-single.html">Dr.Ananth</a></h4>
 						<p>Orthopedic Surgeon</p>
 					</div>
 				</div>
@@ -293,7 +292,7 @@
 						<span>John Partho</span>
 					</div>
 					<p>
-						They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
+						They provide a great service facility that can be followed by adipisicing elit. Therefore, the matter, of the present, by right, the very great lenienti from or to get them flees please. It will happen to some of us that none of us are ever comfortable.
 					</p>
 					<i class="icofont-quote-right"></i>
 					
@@ -305,7 +304,7 @@
 						<span>Mullar Sarth</span>
 					</div>
 					<p>
-						They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
+					 	They provide a great service facility that can be followed by adipisicing elit. Therefore, the matter, of the present, by right, the very great lenienti from or to get them flees please. It will happen to some of us that none of us are ever comfortable.
 					</p>
 					<i class="icofont-quote-right"></i>
 				</div>
@@ -316,7 +315,7 @@
 						<span>Kolis Mullar</span>
 					</div>
 					<p>
-						They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
+						They provide a great service facility that can be followed by adipisicing elit. Therefore, the matter, of the present, by right, the very great lenienti from or to get them flees please. It will happen to some of us that none of us are ever comfortable.
 					</p>
 					<i class="icofont-quote-right"></i>
 				</div>
@@ -327,7 +326,7 @@
 						<span>Partho Sarothi</span>
 					</div>
 					<p>
-						They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
+						They provide a great service facility that can be followed by adipisicing elit. Therefore, the matter, of the present, by right, the very great lenienti from or to get them flees please. It will happen to some of us that none of us are ever comfortable.
 					</p>
 					<i class="icofont-quote-right"></i>
 				</div>
@@ -338,7 +337,7 @@
 						<span>Kolis Mullar</span>
 					</div>
 					<p>
-						They provide great service facilty consectetur adipisicing elit. Itaque rem, praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat. Quibusdam laboriosam eveniet nostrum nemo commodi numquam quod.
+						They provide a great service facility that can be followed by adipisicing elit. Therefore, the matter, of the present, by right, the very great lenienti from or to get them flees please. It will happen to some of us that none of us are ever comfortable.
 					</p>
 					<i class="icofont-quote-right"></i>
 				</div>
@@ -355,7 +354,7 @@
 					<div class="logo mb-4">
 						<img src="images/logo.png" alt="" class="img-fluid">
 					</div>
-					<p>Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus.</p>
+					<p>Times are the pain of pleasures, for if we take pleasure in pleasure, it is easy for us to be blinded to them, and the distinction of the truth will come about.</p>
 
 					<ul class="list-inline footer-socials mt-4">
 						<li class="list-inline-item"><a href="https://www.facebook.com/themefisher"><i class="icofont-facebook"></i></a></li>
@@ -372,7 +371,7 @@
 
 					<ul class="list-unstyled footer-menu lh-35">
 						<li><a href="#">Surgery </a></li>
-						<li><a href="#">Wome's Health</a></li>
+						<li><a href="#">Women's Health</a></li>
 						<li><a href="#">Radiology</a></li>
 						<li><a href="#">Cardioc</a></li>
 						<li><a href="#">Medicine</a></li>
@@ -405,7 +404,7 @@
 							<i class="icofont-email mr-3"></i>
 							<span class="h6 mb-0">Support Available for 24/7</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+23-345-67890">Support@email.com</a></h4>
+						<h4 class="mt-2"><a href="tel:+91 6281888340">kanyaraasi@medplus.com</a></h4>
 					</div>
 
 					<div class="footer-contact-block">
@@ -413,7 +412,7 @@
 							<i class="icofont-support mr-3"></i>
 							<span class="h6 mb-0">Mon to Fri : 08:30 - 18:00</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+23-345-67890">+23-456-6588</a></h4>
+						<h4 class="mt-2"><a href="tel:+91 6281888340">+91 6281888340</a></h4>
 					</div>
 				</div>
 			</div>
@@ -421,11 +420,6 @@
 		
 		<div class="footer-btm py-4 mt-5">
 			<div class="row align-items-center justify-content-between">
-				<div class="col-lg-6">
-					<div class="copyright">
-						&copy; Copyright Reserved to <span class="text-color">Novena</span> by <a href="https://themefisher.com/" target="_blank">Themefisher</a>
-					</div>
-				</div>
 				<div class="col-lg-6">
 					<div class="subscribe-form text-lg-right mt-5 mt-lg-0">
 						<form action="#" class="subscribe">
