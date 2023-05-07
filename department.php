@@ -2,10 +2,9 @@
 <html lang="zxx">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="Orbitor,business,company,agency,modern,bootstrap4,tech,software">
-  <meta name="author" content="themefisher.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 
-  <title>Novena- Health & Care Medical template</title>
+  <title>Medplus- Health & Care Medical template</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />
@@ -31,15 +30,15 @@
 			<div class="row align-items-center">
 				<div class="col-lg-6">
 					<ul class="top-bar-info list-inline-item pl-0 mb-0">
-						<li class="list-inline-item"><a href="mailto:support@gmail.com"><i class="icofont-support-faq mr-2"></i>support@novena.com</a></li>
-						<li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Address Ta-134/A, New York, USA </li>
+						<li class="list-inline-item"><a href="mailto:kanyaraasi@gmail.com"><i class="icofont-support-faq mr-2"></i>kanyaraasi@gmail.com</a></li>
+						<li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Visakhapatnam,Andhra Pradesh,IN</li>
 					</ul>
 				</div>
 				<div class="col-lg-6">
 					<div class="text-lg-right top-right-bar mt-2 mt-lg-0">
 						<a href="tel:+23-345-67890" >
 							<span>Call Now : </span>
-							<span class="h4">823-4565-13456</span>
+							<span class="h4">+91 6281888340</span>
 						</a>
 					</div>
 				</div>
@@ -126,7 +125,7 @@
 				<div class="section-title">
 					<h2>Award winning patient care</h2>
 					<div class="divider mx-auto my-4"></div>
-					<p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
+					<p>We may be able to make the pain more severe with the necessities of life than the pleasures of those who praise us. Let him seek greater things.</p>
 				</div>
 			</div>
 		</div>
@@ -137,7 +136,7 @@
 					<img src="images/service/service-1.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
 						<h4 class="mt-4 mb-2 title-color">Opthomology</h4>
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+						<p class="mb-4">Often there is no present and all of them are tolerable from pain.</p>
 						<a href="department-single.php" class="read-more">Learn More  <i class="icofont-simple-right ml-2"></i></a>
 					</div>
 				</div>
@@ -148,7 +147,7 @@
 					<img src="images/service/service-2.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
 						<h4 class="mt-4 mb-2  title-color">Cardiology</h4>
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+						<p class="mb-4">Often there is no present and all of them are tolerable from pain.</p>
 						<a href="department-single.php" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
 					</div>
 				</div>
@@ -159,7 +158,7 @@
 					<img src="images/service/service-3.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
 						<h4 class="mt-4 mb-2 title-color">Dental Care</h4>
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+						<p class="mb-4">Often there is no present and all of them are tolerable from pain.</p>
 						<a href="department-single.php" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
 					</div>
 				</div>
@@ -171,7 +170,7 @@
 					<img src="images/service/service-4.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
 						<h4 class="mt-4 mb-2 title-color">Child Care</h4>
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+						<p class="mb-4">Often there is no present and all of them are tolerable from pain.</p>
 						<a href="department-single.php" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
 					</div>
 				</div>
@@ -182,7 +181,7 @@
 					<img src="images/service/service-6.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
 						<h4 class="mt-4 mb-2 title-color">Pulmology</h4>
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+						<p class="mb-4">Often there is no present and all of them are tolerable from pain.</p>
 						<a href="department-single.php" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
 					</div>
 				</div>
@@ -193,7 +192,7 @@
 					<img src="images/service/service-8.jpg" alt="" class="img-fluid w-100">
 					<div class="content">
 						<h4 class="mt-4 mb-2 title-color">Gynecology</h4>
-						<p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+						<p class="mb-4">Often there is no present and all of them are tolerable from pain.</p>
 						<a href="department-single.php" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>
 					</div>
 				</div>
@@ -211,7 +210,7 @@
 					<div class="logo mb-4">
 						<img src="images/logo.png" alt="" class="img-fluid">
 					</div>
-					<p>Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus.</p>
+					<p>Times are the pain of pleasures, for if we take pleasure in pleasure, it is easy for us to be blinded to them, and the distinction of the truth will come about.</p>
 
 					<ul class="list-inline footer-socials mt-4">
 						<li class="list-inline-item"><a href="https://www.facebook.com/themefisher"><i class="icofont-facebook"></i></a></li>
@@ -261,7 +260,7 @@
 							<i class="icofont-email mr-3"></i>
 							<span class="h6 mb-0">Support Available for 24/7</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+23-345-67890">Support@email.com</a></h4>
+						<h4 class="mt-2"><a href="tel:+23-345-67890">kanyaraasi@email.com</a></h4>
 					</div>
 
 					<div class="footer-contact-block">
@@ -269,7 +268,7 @@
 							<i class="icofont-support mr-3"></i>
 							<span class="h6 mb-0">Mon to Fri : 08:30 - 18:00</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+23-345-67890">+23-456-6588</a></h4>
+						<h4 class="mt-2"><a href="tel:+23-345-67890">+91 6281888340</a></h4>
 					</div>
 				</div>
 			</div>
@@ -277,11 +276,7 @@
 		
 		<div class="footer-btm py-4 mt-5">
 			<div class="row align-items-center justify-content-between">
-				<div class="col-lg-6">
-					<div class="copyright">
-						&copy; Copyright Reserved to <span class="text-color">Novena</span> by <a href="https://themefisher.com/" target="_blank">Themefisher</a>
-					</div>
-				</div>
+				
 				<div class="col-lg-6">
 					<div class="subscribe-form text-lg-right mt-5 mt-lg-0">
 						<form action="#" class="subscribe">

@@ -2,10 +2,9 @@
 <html lang="zxx">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="Orbitor,business,company,agency,modern,bootstrap4,tech,software">
-  <meta name="author" content="themefisher.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 
-  <title>Novena- Health & Care Medical template</title>
+  <title>Medplus- Health & Care Medical template</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />
@@ -31,15 +30,15 @@
 			<div class="row align-items-center">
 				<div class="col-lg-6">
 					<ul class="top-bar-info list-inline-item pl-0 mb-0">
-						<li class="list-inline-item"><a href="mailto:support@gmail.com"><i class="icofont-support-faq mr-2"></i>support@novena.com</a></li>
-						<li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Address Ta-134/A, New York, USA </li>
+						<li class="list-inline-item"><a href="mailto:support@gmail.com"><i class="icofont-support-faq mr-2"></i>kanyaraasi@novena.com</a></li>
+						<li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Address Visakhapatnam , Andhra Pradesh , IN</li>
 					</ul>
 				</div>
 				<div class="col-lg-6">
 					<div class="text-lg-right top-right-bar mt-2 mt-lg-0">
 						<a href="tel:+23-345-67890" >
 							<span>Call Now : </span>
-							<span class="h4">823-4565-13456</span>
+							<span class="h4">+91 6281888340</span>
 						</a>
 					</div>
 				</div>
@@ -135,7 +134,7 @@
 					<h3 class="text-md">Urology</h3>
 					<div class="divider my-4"></div>
 					<p class="lead">Age forming covered you entered the examine. Blessing scarcely confined her contempt wondered shy. Dashwoods contented sportsmen at up no convinced cordially affection.</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum recusandae dolor autem laudantium, quaerat vel dignissimos. Magnam sint suscipit omnis eaque unde eos aliquam distinctio, quisquam iste, itaque possimus . Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet alias modi eaque, ratione recusandae cupiditate dolorum repellendus iure eius rerum hic minus ipsa at, corporis nesciunt tempore vero voluptas. Tempore.</p>
+					<p>It is very important for the customer to pay attention to the adipiscing process. But when the grief of the praisers is to be rejected, let him seek even the most worthy. Let every one of them receive a great reception, and whence they have some distinction, if any one of them, so that we may . It is very important for the customer to pay attention to the adipiscing process. It will happen in other ways, and those things will be repulsed by reason of the refusal of the desire of pains by the right of those things, but here they do not know the pleasure of the body at the time. At the time.</p>
 
 
 					<h3 class="mt-5 mb-4">Services features</h3>
@@ -191,7 +190,7 @@
 					<div class="logo mb-4">
 						<img src="images/logo.png" alt="" class="img-fluid">
 					</div>
-					<p>Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus.</p>
+					<p>Times are the pain of pleasures, for if we take pleasure in pleasure, it is easy for us to be blinded to them, and the distinction of the truth will come about.</p>
 
 					<ul class="list-inline footer-socials mt-4">
 						<li class="list-inline-item"><a href="https://www.facebook.com/"><i class="icofont-facebook"></i></a></li>
